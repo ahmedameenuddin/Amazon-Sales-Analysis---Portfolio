@@ -14,3 +14,7 @@
 5. Data Visualization
 
 6. Making Recommendation System
+
+## SOFTWARE USED
+
+1. Python (Numpy, Pandas, Matplotlib, Seaborn)
